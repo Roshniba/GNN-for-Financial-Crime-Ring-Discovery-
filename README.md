@@ -48,7 +48,3 @@ There are several arguments that can be set for additional functionality. Here's
 | `--inference`  | Loads a previously trained model (with name given by `--unique_name` and stored in `model_to_load` path in the `data_config.json`) to do inference only. |
 
 </div>
-
-## Licence
-Apache License
-Version 2.0, January 2004
